@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 2px;
+   
+}
+
+input{
+    padding: 10px;
+    padding-left: 20px;
+    margin-top: 3px;
+    border-color: #ccc;
+    border-width: 1px;
+    border-style: solid;
+}
+input:-ms-input-placeholder{
+    color: #ccc;
+}
+#salvar{
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #088A68;
+    border-width: 0px;
+}
